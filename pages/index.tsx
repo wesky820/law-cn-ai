@@ -12,10 +12,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>AI 法律助手</title>
+        <title>刘澍AI 法律助手</title>
         <meta
           name="description"
-          content="AI 法律助手"
+          content="刘澍AI 法律助手"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
